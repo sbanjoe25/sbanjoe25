@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Others:
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-### In my extra time, I also play games at: 
+### In my extra time, I also play games on: 
 -   <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/><img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
